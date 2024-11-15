@@ -126,6 +126,11 @@ header{
   
     display: none;
   }
+
+  .swal-modal .swal-text{
+    text-align: center;
+    line-height: 30px;
+  }
   
   .error-disc {
     /* padding: -2rem 0 0 5.4rem; */
